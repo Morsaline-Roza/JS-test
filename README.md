@@ -9,3 +9,5 @@ Cat generator.
 
 Challenge -3 
 Rock-Paper-Scissors.
+
+This repo will include the .html, .js and .css files.
